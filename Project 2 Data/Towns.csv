@@ -1,0 +1,31 @@
+id,town,county,state,country,population,zipcode,area_code
+1,Philadelphia,Philadelphia,Pennsylvania,USA,1579000,19019,215
+2,Springfield,Fairfax,Virginia,USA,32222,22153,703
+3,Reading,Berks,Pennsylvania,USA,88232,19601,671
+4,Burke,Fairfax,Virginia,USA,41055,22015,703
+5,Mt Olympus,,,Greece,7103,84109,344
+6,Fairfax,Fairfax,Virginia,USA,23531,22030,571
+7,Charlottesville,Albemarle,Virginia,USA,47096,22901,434
+8,Los Angeles,Los Angeles,California,USA,3967000,90001,213
+9,London,,,England,8982000,75666,465
+10,Cairns,,,Australia,78394,37898,782
+11,Largo,Pinellas,Florida,USA,71122,22099,997
+12,Hamilton,,,New Zealand,"165,400",2203,622
+13,Atlanta,Fulton,Georgia,USA,18999,22066,827
+14,Doylestown,Bucks,Pennsylvania,USA,34553,22176,692
+15,Palo Alto,Santa Clara,California,USA,47793,22987,552
+16,New York,New York,New York,USA,8419000,22837,102
+17,Nashville,Davidson,Tennessee,USA,692587,22119,290
+18,Brooklyn,Kings,New York,USA,1890298,22890,789
+19,Alberta,,,Canada,189200,18900,676
+20,Seoul,,,South Korea,9977000,10053,917
+21,Canton,Wayne,Michigan,USA,93018,22001,197
+22,Long Beach,Los Angeles,California,USA,98787,22290,665
+23,Saint Paul,Ramsey,Minnesota,USA,90283,28229,195
+24,Toronto,,,Canada,1208392,19203,881
+25,Stratford,,,Canada,31821,22091,129
+26,San Francisco,San Francisco,California,USA,827390,22374,194
+27,Franklin,Williamson,Tennessee,USA,29384,22021,133
+28,Poway,San Diego,California,USA,293892,22881,203
+29,Greater Napanee,,,Canada,29304,91837,228
+30,Vancouver,,,Canada,28930,10299,586
