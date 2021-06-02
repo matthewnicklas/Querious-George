@@ -1,0 +1,10 @@
+id,major,number_of_classes,school,credits,avg_start_salary,application_based,graduation_honors_gpa
+1,Mechanical Engineering,40,Engineering,115,"60,000",FALSE,3.4
+2,Computer Science (BA),38,Arts and Sciences,112,"68,600",FALSE,3.6
+3,Computer Science (BS),38,Engineering,112,"68,600",FALSE,3.4
+4,Commerce,36,McIntire,108,"62,905",TRUE,3.8
+5,Public Policy and Leadership,37,Batten,110,"49,380",TRUE,3.4
+6,Global Development Studies,34,Arts and Sciences,100,"51,774",TRUE,3.6
+7,Statistics,38,Arts and Sciences,110,"70,000",FALSE,3.6
+8,Civil Engineering ,41,Engineering,115,"65,000",FALSE,3.4
+9,Youth and Social Innovation,39,Education and Human Development,112,"51,560",TRUE,3.6
