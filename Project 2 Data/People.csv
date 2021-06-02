@@ -1,5 +1,5 @@
 id,first_name,last_name,graduation_year,age,number_of_family_members,fav_color,fav_animal,fav_tv_show,fav_movie,beach_or_mtns,fav_icecream,hometown_id,major_id,second_major_id,minor,favorite_hobby_id,second_favorite_hobby_id,fav_artist_id
-1,Matt,Nicklas,2018,25,3,blue,shark,Dexter,Dark Knight,beach,cookie dough,2,1,,Environmental Engineering,3,2,31
-2,Cannon,Johns,2024,18,3,blue,giraffe,Arrested Development,Star Wars,beach,salted caramel,1,2,4,,1,8,24
-3,Serene,Lu,2024,19,5,blue,bunny,New Girl,Inception,beach,cookies n' cream,4,2,7,,7,11,22
-4,Aayushma,Bastola,2023,20,3,green,elephant,Fleabag,Get Out,mountains,coffee,6,4,5,,9,4,1
+1,Matt,Nicklas,2018,25,3,blue,shark,Dexter,Dark Knight,beach,cookie dough,Springfield,Mechanical Engineering,,Environmental Engineering,Board games,Frisbee golf,Coldplay
+2,Cannon,Johns,2024,18,3,blue,giraffe,Arrested Development,Star Wars,beach,salted caramel,Philadelphia,Computer Science (BA),Commerce,,Surfing,Skating,Hippo Campus
+3,Serene,Lu,2024,19,5,blue,bunny,New Girl,Inception,beach,cookies n' cream,Burke,Computer Science (BA),Statistics,,Playing guitar,Sleeping,Giveon
+4,Aayushma,Bastola,2023,20,3,green,elephant,Fleabag,Get Out,mountains,coffee,Fairfax,Commerce,Public Policy and Leadership,,Singing,Eating,Taylor Swift
