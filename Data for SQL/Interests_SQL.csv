@@ -1,0 +1,12 @@
+id,hobbies,location,most_famous_person,skill_level_required,risk_factor,category
+1,Surfing,Beach,Shaun White,9,9,Sport
+2,Frisbee golf,Forest,Paul McBeth,6,4,Sport
+3,Board games ,Home,Monopoly Man,3,2,Leisure
+4,Eating,Anywhere,Guy Fieri,1,8,Leisure
+5,Video games,Home,PewDiePie,5,2,Leisure
+6,Reading,Home,Morgan Freeman,2,1,Leisure
+7,Playing guitar,Home,Jimi Hendrix,6,2,Art
+8,Skating,Skate Park,Tony Hawk,8,9,Sport
+9,Singing,Home,Beyonce,6,1,Art
+10,Tennis,Tennis Court,Roger Federer,7,5,Sport
+11,Sleeping,Home,Snorlax,2,1,Leisure
